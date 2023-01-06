@@ -83,5 +83,5 @@ while True:
             print("Invalid Choice, Prepare to be vaporized.")
 
     else:
-        print('Prepare to be vaporized, Prole.')
+        print('Prepare to be vaporized, Prole..')
         break
